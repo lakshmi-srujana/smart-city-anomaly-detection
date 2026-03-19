@@ -34,7 +34,6 @@
 - ⚛️ **React Dashboard** — dark theme, Recharts time-series, real-time anomaly flagging
 - 🗄️ **MySQL Logging** — all predictions and model metrics persisted
 - 📊 **Model Benchmarking** — F1, anomaly rate, and inference time comparison
-- 📄 **IEEE Research** — full comparative study submitted to IEEE ICCCNT 2025
 
 ---
 
